@@ -37,8 +37,9 @@ description.classList.add("description")
 profileModel.src = "./img/Pic Model.jpeg"
 profileModel.alt = "Model_Photo"
 
-description.innerText = "O modelo selecionado é Lucas Mires, estudante da Kenzie Academy Brasil. Este projeto de perfil foi inspirado nas aulas de CSS do Canvas. Para qualquer um que tenha alguma dificuldade com CSS possa ultilizar esta página como um exemplo/possibilidade de Cards no CSS." 
+description.innerText = "Modelo selecionado se chama Lucas Mires, estudante da Kenzie Academy Brasil. Este projeto tem como incentivo receber novas aplicações e técnologias com o avançar dos conhecimentos do Estudante. Foram utilizados CSS (Estilisação completa da página) e JavaScript (DOM). Espero que essa página possa ajudar novos desenvolvedores com problemas no CSS e dar examplos do que fazer ou commo aplicar algum elemento do CSS"
 
+// "O modelo selecionado é Lucas Mires, estudante da Kenzie Academy Brasil. Este projeto de perfil foi inspirado nas aulas de CSS do Canvas. Para qualquer um que tenha alguma dificuldade com CSS possa ultilizar esta página como um exemplo/possibilidade de Cards no CSS."
 
 section.append(figure, divisoria)
 divisoria.append(description)
